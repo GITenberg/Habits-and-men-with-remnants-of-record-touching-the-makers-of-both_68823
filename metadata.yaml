@@ -1,0 +1,32 @@
+_repo: Habits-and-men-with-remnants-of-record-touching-the-makers-of-both_68823
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doran, Dr. (John)
+    aliases:
+    - Doran, John
+    - Doran, Dr. John
+    birthdate: 1807
+    deathdate: 1878
+    gutenberg_agent_id: '44142'
+    url: http://www.gutenberg.org/2009/agents/44142
+    wikipedia: https://en.wikipedia.org/wiki/John_Doran_(writer)
+description: ''
+gutenberg_issued: '2022-08-23'
+identifiers:
+  gutenberg: '68823'
+language: en
+pgterms:marc904: https://archive.org/details/habitsmenwithrem00dorauoft/
+pgterms:marc905: 20210206132910doran
+pgterms:marc906: '1855'
+pgterms:marc907: GB
+production_note: Susan Skinner and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Richard Bentley,1855.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Habits and men, with remnants of record touching the makers of both
+url: http://www.gutenberg.org/ebooks/68823
