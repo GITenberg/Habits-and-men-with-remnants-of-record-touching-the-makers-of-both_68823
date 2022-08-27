@@ -1,5 +1,8 @@
 _repo: Habits-and-men-with-remnants-of-record-touching-the-makers-of-both_68823
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68823-h/images/cover.jpg
 creator:
   author:
     agent_name: Doran, Dr. (John)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44142
     wikipedia: https://en.wikipedia.org/wiki/John_Doran_(writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68823#Habits-and-men-with-remnants-of-record-touching-the-makers-of-both
 gutenberg_issued: '2022-08-23'
 identifiers:
   gutenberg: '68823'
